@@ -1,0 +1,25 @@
+{
+  "greeting": "Hà",
+  "name": "Anh",
+  "greetingText": "Đây là một lời chúc của anh",
+  "wishText": "Chúc cho cô gái của anh tuổi mới thật nhiều thành công và may mắn, ngày càng xinh đẹp.
+Chúc chúng ta có thể đón được thêm nhiều cái sinh nhật nữa nhé!!
+Anh Yêu Em!!!!",
+  "imagePath": "img/Ha Anh.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Hôm nay là sinh nhật em, anh chúc em blah blah...",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đấy là những gì anh định làm.",
+  "text3": "Nhưng anh đã dừng lại.",
+  "text4": "Vì anh nhận ra, anh cần làm cái gì đó",
+  "text4Adjective": "đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Em là người đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "VẬY",
+  "bigTextPart2": "NÊN",
+  "wishHeading": "CHÚC MỪNG SINH NHẬT",
+  "outroText": "Thế là hết rồi !!",
+  "replayText": "Bấm lại nếu em muốn xem thêm nhé :3",
+  "outroSmiley": ":)"
+}
